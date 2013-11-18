@@ -1,7 +1,7 @@
 
 # grid
 
-  Base grid
+  Base grid system
 
 ## Installation
 
@@ -11,7 +11,8 @@
 
 ## API
 
-
+## Test
+http://base-ui.github.io/grid/test   
 
 ## License
 

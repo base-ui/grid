@@ -1,7 +1,7 @@
 {
   "name": "grid",
   "repo": "base-ui/grid",
-  "description": "Base grid",
+  "description": "Base grid system",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
