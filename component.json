@@ -1,0 +1,13 @@
+{
+  "name": "grid",
+  "repo": "base-ui/grid",
+  "description": "Base grid",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "css/grid.css"
+  ]
+}
